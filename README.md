@@ -43,7 +43,10 @@ This project detects **plant leaf diseases** using a **Convolutional Neural Netw
 
 ```bash
 pip install torch torchvision matplotlib
-###Sample Output
+
+
+### Sample Output
+
 Train Accuracy: 85–95% (ResNet, 3–5 epochs)
 
 Validation Accuracy: 75–90%
